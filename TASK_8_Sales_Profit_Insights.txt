@@ -1,0 +1,6 @@
+TASK 8: Sales & Profit Dashboard – Insights
+
+1. Profit peaked in April and December, following sales trends closely.
+2. Office Supplies showed the most inconsistent profit margins across all regions.
+3. West region contributed to high overall profit, especially in Technology.
+4. Furniture underperformed in profit despite stable sales volume.
