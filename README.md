@@ -1,4 +1,4 @@
-# 🧾 TASK 8: Sales & Profit Dashboard
+# 🧾 Sales & Profit Dashboard
 
 ## 📌 Objective
 Design a Power BI dashboard focusing on monthly profit trends and category performance.
